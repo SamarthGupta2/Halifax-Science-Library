@@ -8,10 +8,11 @@ The project focussed on updating the existing database of Halifax Science Librar
 
 Developed an EER diagram to understand the requirements, entities and the relationships between them. All entities and relationships were normalized to 3NF. 
 
-Imported the existing raw data in JSON format by cleaning and loading into MongoDB using bash scripts and python which was further processed to load data into newly created MySQL tables. 
+Performed ETL tasks such as cleaning the raw JSON data and importing into MongoDB collections using bash scripts and python which was further processed to load data into newly created MySQL tables. 
 
-Developed a PHP web application to allow users access the newly designed database for the library employees to perform various tasks:
-- Show tables
+Developed a functional PHP web application using HTML5 and CSS3 to streamline various employee operations such as:
+- View data
 - Add new articles
 - Add new transactions
+- Add new customers
 - Cancel transactions
