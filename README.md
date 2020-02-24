@@ -1,5 +1,5 @@
 # Halifax Science Library - MySQL, MongoDB, PHP Application
-Technology Used: MySQL, MongoDB, Python, PHP
+Technology Used: MySQL, MongoDB, Python, Bash scripts, PHP, HTML5, CSS3
 
 The project focussed on updating the existing database of Halifax Science Library which had the following immediate plans:
 - Sell library items and record information about these sales(transactions)
